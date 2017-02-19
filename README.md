@@ -1,2 +1,2 @@
 # icpc-prep
-Solutions to UVa problems, hackerrank problems etc
+Solutions to CODEFORCES problems, UVa problems, hackerrank problems etc
